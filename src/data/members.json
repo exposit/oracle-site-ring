@@ -8,5 +8,10 @@
         "title": "New School Revolution",
         "url": "https://newschoolrevolution.com/",
         "feed": "https://newschoolrevolution.com/feed.xml"
+    },
+    {
+        "title": "Something Something Dice",
+        "url": "https://somethingsomethingdice.wordpress.com/",
+        "feed":"https://somethingsomethingdice.wordpress.com/feed/"
     }
 ]
