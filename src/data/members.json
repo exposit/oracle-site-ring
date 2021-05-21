@@ -1,7 +1,12 @@
 [
     {
-        "title": "Tam H",
+        "title": "Hedonic Ink",
         "url": "https://www.hedonic.ink",
         "feed": "https://www.hedonic.ink/feed.xml"
+    },
+    {
+        "title": "New School Revolution",
+        "url": "https://newschoolrevolution.com/",
+        "feed": "https://newschoolrevolution.com/feed.xml"
     }
 ]
